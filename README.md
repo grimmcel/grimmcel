@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
+  
+${{\color{#ffffff}{\textsf{SPAM FOLLOW ACCOUNT }}}}$
+<br>
 
-<!--
-**grimmcel/grimmcel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+![Alt](https://files.catbox.moe/zb7idm.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<div align="center">
+  
+${{\color{#ffffff}{\textsf{CHECK OUT MY MAIN}}}}$
+<br>
+
+<div align="center">
+
+[@5ojo](https://github.com/5ojo) ![ALT](https://files.catbox.moe/v4ooz3.gif) 
