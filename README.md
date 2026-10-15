@@ -7,8 +7,6 @@ ${{\color{#ffffff}{\textsf{SPAM FOLLOW ACCOUNT }}}}$
 
 ![Alt](https://files.catbox.moe/zb7idm.png)
 
-<br>
-
 <div align="center">
   
 ${{\color{#ffffff}{\textsf{CHECK OUT MY MAIN!! }}}}$
