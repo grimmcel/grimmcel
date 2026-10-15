@@ -11,7 +11,7 @@ ${{\color{#ffffff}{\textsf{SPAM FOLLOW ACCOUNT }}}}$
 
 <div align="center">
   
-${{\color{#ffffff}{\textsf{CHECK OUT MY MAIN}}}}$
+${{\color{#ffffff}{\textsf{CHECK OUT MY MAIN!! }}}}$
 <br>
 
 <div align="center">
